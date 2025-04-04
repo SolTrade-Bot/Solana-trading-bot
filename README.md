@@ -1,4 +1,4 @@
-# Solana Trading Bot 🌞💰
+## **Solana Trading Bot** 🌞💰
 
 ## Project Description
 **Solana Trade Bot** is an automated trading bot designed to trade cryptocurrencies on the Solana blockchain. The bot leverages the high throughput and low transaction costs of Solana to execute trades efficiently and capitalize on market opportunities.
